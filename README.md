@@ -1,5 +1,5 @@
-# brickbreakergame(JS 공부겸 빠르게 만들어본 벽돌깨기게임)
-Brick breaker game with HTML + CSS + JS
+# brickbreakergame
+### JS 공부겸, 빠르게 만들어본 벽돌깨기게임
 
 > 참고 [순수한 자바스크립트를 이용한 2D 벽돌깨기 게임](https://developer.mozilla.org/ko/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
 
